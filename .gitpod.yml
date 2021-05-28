@@ -1,4 +1,4 @@
-image: gitpod/workspace-full:branch-jx-update-gopls
+image: gitpod/workspace-full:commit-409e1707b3cbe6752a894893cd6354fc13d7b8f5
 tasks:
   - init: npm install
     command: |
